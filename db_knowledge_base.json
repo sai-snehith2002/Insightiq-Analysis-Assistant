@@ -1,0 +1,10 @@
+[
+  {
+    "entity_type": "Tells your entity type whether its database/table/column/bussiness_logic description",
+    "entity_name": "Entity Name Goes here",
+    "description": " Describe what this entity indicates helping the LLM to understand its importance",
+    "tags": [
+      "",""
+    ],
+    "source": "Ur source Tag goes here"
+  }]

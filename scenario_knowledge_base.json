@@ -1,0 +1,13 @@
+[
+  {
+    "scenario_key": "Give Unique ID to each scenario explanation",
+    "scenario_user_input": [
+      "The expected user inputs indicating his/her requirement"
+    ],
+    "scenario_instruction": "Instructions given to the text to SQL model on how to construct the SQL query and which all tables to include",
+    "scenario_output": {
+      "type": "aggregated_metrics",
+      "expected_columns": ["list of all column names and expected columns in the output"],
+      "cardinality": "single_or_multiple_rows"
+    }
+  }]
